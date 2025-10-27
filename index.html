@@ -4,16 +4,35 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Guessit — Game</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Guessit — Enhanced Game</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <main class="card" role="application" aria-labelledby="title">
     <header>
-      <div>
-        <h1 id="title" align="center">Guessit</h1>
+      <div class="header-content">
+        <h1 id="title">Guessit</h1>
         <p class="lead">Try to guess the secret number. You'll get hints and limited attempts.</p>
+      </div>
+      <div class="theme-controls">
+        <div class="theme-toggle active" id="darkTheme">
+          <i class="fas fa-moon theme-icon"></i>
+          <span>Dark</span>
+        </div>
+        <div class="theme-toggle" id="lightTheme">
+          <i class="fas fa-sun theme-icon"></i>
+          <span>Light</span>
+        </div>
+        <div class="theme-toggle active" id="glowTheme">
+          <i class="fas fa-lightbulb theme-icon"></i>
+          <span>Glow</span>
+        </div>
+        <div class="theme-toggle" id="noGlowTheme">
+          <i class="fas fa-lightbulb theme-icon"></i>
+          <span>No Glow</span>
+        </div>
       </div>
     </header>
 
@@ -29,15 +48,17 @@
       </div>
 
       <div class="guess-section">
-        <label for="guess">Your guess
-        </label>
+        <label for="guess">Your guess</label>
         <div class="controls">
           <input id="guess" type="number" inputmode="numeric" aria-label="Enter your guess" min="0">
           <button id="guessBtn">Guess</button>
           <button id="resetBtn" class="secondary">Reset</button>
         </div>
 
-        <div id="message" class="message small">Enter a number and press Guess (or hit Enter).</div>
+        <div id="message" class="message small">
+          <i class="fas fa-info-circle message-icon"></i>
+          <span>Enter a number and press Guess (or hit Enter).</span>
+        </div>
         <div id="meta" class="meta"></div>
       </div>
     </section>
@@ -58,10 +79,11 @@
 
     <div class="footer">
       <div class="small">Range: <span id="rangeLabel">1–100</span></div>
+      <div class="small">Difficulty: <span id="difficultyLabel">Medium</span></div>
     </div>
   </main>
 
-  <script src="script.js"></script>
+  <script src="script.js" ></script>
 </body>
 
 </html>
