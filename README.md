@@ -1,2 +1,85 @@
-# Guessit
+<div align="center">
 
+# ⚡ GUESS THE NUMBER — CYBERPUNK EDITION  
+### *“Between neon lights and fate’s whispers, a number awaits you.”*
+
+![Repo Size](https://img.shields.io/github/repo-size/Chandan-Saha/Guessit?color=brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/Chandan-Saha/Guessit?color=yellow)
+![Top Language](https://img.shields.io/github/languages/top/Chandan-Saha/Guessit?color=ff69b4)
+![License](https://img.shields.io/github/license/Chandan-Saha/Guessit?color=orange)
+
+🎮 **Play it here:**  
+👉 [https://chandan-saha.github.io/Guessit/](#)
+
+</div>
+
+---
+
+## 💫 What’s New in This Edition?
+
+This isn’t just a fork — it’s a **complete visual rebirth**.  
+Every pixel, animation, and effect has been **handcrafted for a futuristic, cyberpunk vibe**.  
+
+### ✨ Visual Enhancements
+- Rich **multi-layered gradient backgrounds**
+- **Glassmorphism** with smooth backdrop blur
+- **Animated gradient borders** that pulse through color spectrums
+- Deep **neon glows** and soft shadows for immersive depth
+
+### 🎨 Interactive Touches
+- **Ripple hover effects** on buttons  
+- **Floating inputs** with lift animations  
+- **Sliding stats** that glow when hovered  
+- **Smooth transitions** across all UI elements  
+
+### 🧩 Design Polish
+- Adaptive **responsive layout** — perfect on both mobile and desktop  
+- Modern **typography with neon shadowing**  
+- Custom **scrollbar styling**  
+- Subtle **3D depth** and refined color harmony  
+
+---
+
+## ⚙️ Built With  
+🧠 **HTML, CSS, and JavaScript** — no frameworks, no dependencies.  
+💡 Pure logic, clean code, and polished design.  
+
+---
+
+## 🎮 How to Play  
+
+1. Visit the [**Live Game**](#)  
+2. The computer secretly picks a number between 1 and *n*.  
+3. Enter your guess and click **Check!**  
+4. Get feedback: *“Too High”* or *“Too Low.”*  
+5. Find the exact number and unlock your victory glow.  
+
+💡 *Challenge your intuition — can you beat the algorithm?*
+
+---
+
+## 🧱 Run It Locally  
+
+```bash
+git clone https://github.com/Chandan-Saha/Guessit.git
+cd Guessit
+```
+
+Then open **index.html** in your browser — and dive into the neon hunt.
+
+---
+
+## 🪩 Design Philosophy  
+> “Code is not just logic — it’s motion, color, and emotion.”
+
+This version is about *feeling the game*, not just playing it —  
+a smooth, vibrant, and immersive guessing experience.
+
+---
+
+<div align="center">
+
+⚡ Crafted with precision by **[CKS](https://github.com/Chandan-Saha)**  
+inspired by the idea of merging **art and interactivity** in one frame.
+
+</div>
