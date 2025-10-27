@@ -74,6 +74,14 @@ Then open **index.html** in your browser — and dive into the neon hunt.
 
 ---
 
+### 🫶 Credits  
+
+This project was **originally inspired by** and **styled upon the work of** [Puskar2Sora](https://github.com/Puskar2Sora).  
+The original design and concept can be found here:  
+🔗 [https://github.com/Puskar2Sora/Guess-the-number](https://github.com/Puskar2Sora/Guess-the-number)
+
+---
+
 ## 🪩 Design Philosophy
 
 > “Code is not just logic — it’s motion, color, and emotion.”
