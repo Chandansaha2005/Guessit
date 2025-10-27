@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;600;700&display=swap');
+
 :root {
   --bg: #0a0a0f;
   --card: rgba(15, 15, 25, 0.9);
@@ -6,7 +8,7 @@
   --accent3: #ff00ff;
   --muted: #a0ffc8;
   --glass: rgba(0, 255, 153, 0.1);
-  --font: 'Courier New', monospace;
+  --font: 'Unbounded', monospace;
 }
 
 * {
