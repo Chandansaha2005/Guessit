@@ -76,9 +76,11 @@ Then open **index.html** in your browser — and dive into the neon hunt.
 
 ### 🫶 Credits  
 
-This project was **originally inspired by** and **styled upon the work of** [Puskar2Sora](https://github.com/Puskar2Sora).  
-The original design and concept can be found here:  
-🔗 [https://github.com/Puskar2Sora/Guess-the-number](https://github.com/Puskar2Sora/Guess-the-number)
+This project is a **collaborative evolution** of the original work by [Puskar2Sora](https://github.com/Puskar2Sora).  
+The **cyberpunk redesign and responsive improvements** were created by [CKS](https://github.com/Chandansaha2005),  
+and later **merged and supported** by Puskar2Sora in the original repository.  
+
+🔗 Original project: [https://github.com/Puskar2Sora/Guess-the-number](https://github.com/Puskar2Sora/Guess-the-number)
 
 ---
 
