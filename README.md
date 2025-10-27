@@ -1,15 +1,15 @@
 <div align="center">
 
-# ⚡ GUESS THE NUMBER — CYBERPUNK EDITION  
+# ⚡ GUESSIT — CYBERPUNK EDITION  
 ### *“Between neon lights and fate’s whispers, a number awaits you.”*
 
-![Repo Size](https://img.shields.io/github/repo-size/Chandan-Saha/Guessit?color=brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/Chandan-Saha/Guessit?color=yellow)
-![Top Language](https://img.shields.io/github/languages/top/Chandan-Saha/Guessit?color=ff69b4)
-![License](https://img.shields.io/github/license/Chandan-Saha/Guessit?color=orange)
+![Repo Size](https://img.shields.io/github/repo-size/Chandansaha2005/Guessit?color=brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/Chandansaha2005/Guessit?color=yellow)
+![Top Language](https://img.shields.io/github/languages/top/Chandansaha2005/Guessit?color=ff69b4)
+![License](https://img.shields.io/github/license/Chandansaha2005/Guessit?color=orange)
 
 🎮 **Play it here:**  
-👉 [https://chandan-saha.github.io/Guessit/](#)
+👉 [https://chandansaha2005.github.io/Guessit/](https://chandansaha2005.github.io/Guessit/)
 
 </div>
 
@@ -48,7 +48,7 @@ Every pixel, animation, and effect has been **handcrafted for a futuristic, cybe
 
 ## 🎮 How to Play  
 
-1. Visit the [**Live Game**](#)  
+1. Visit the [**Live Game**](https://chandansaha2005.github.io/Guessit/)  
 2. The computer secretly picks a number between 1 and *n*.  
 3. Enter your guess and click **Check!**  
 4. Get feedback: *“Too High”* or *“Too Low.”*  
@@ -61,7 +61,7 @@ Every pixel, animation, and effect has been **handcrafted for a futuristic, cybe
 ## 🧱 Run It Locally  
 
 ```bash
-git clone https://github.com/Chandan-Saha/Guessit.git
+git clone https://github.com/Chandansaha2005/Guessit.git
 cd Guessit
 ```
 
@@ -79,7 +79,7 @@ a smooth, vibrant, and immersive guessing experience.
 
 <div align="center">
 
-⚡ Crafted with precision by **[CKS](https://github.com/Chandan-Saha)**  
+⚡ Crafted with precision by **[CKS](https://github.com/Chandansaha2005)**  
 inspired by the idea of merging **art and interactivity** in one frame.
 
 </div>
