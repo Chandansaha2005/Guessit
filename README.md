@@ -1,7 +1,8 @@
 <div align="center">
 
-# ⚡ GUESSIT — CYBERPUNK EDITION  
-### *“Between neon lights and fate’s whispers, a number awaits you.”*
+# ⚡ GUESSIT — CYBERPUNK EDITION
+
+### _“Between neon lights and fate’s whispers, a number awaits you.”_
 
 ![Repo Size](https://img.shields.io/github/repo-size/Chandansaha2005/Guessit?color=brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/Chandansaha2005/Guessit?color=yellow)
@@ -18,47 +19,51 @@
 ## 💫 What’s New in This Edition?
 
 This isn’t just a fork — it’s a **complete visual rebirth**.  
-Every pixel, animation, and effect has been **handcrafted for a futuristic, cyberpunk vibe**.  
+Every pixel, animation, and effect has been **handcrafted for a futuristic, cyberpunk vibe**.
 
 ### ✨ Visual Enhancements
+
 - Rich **multi-layered gradient backgrounds**
 - **Glassmorphism** with smooth backdrop blur
 - **Animated gradient borders** that pulse through color spectrums
 - Deep **neon glows** and soft shadows for immersive depth
 
 ### 🎨 Interactive Touches
-- **Ripple hover effects** on buttons  
-- **Floating inputs** with lift animations  
-- **Sliding stats** that glow when hovered  
-- **Smooth transitions** across all UI elements  
+
+- **Ripple hover effects** on buttons
+- **Floating inputs** with lift animations
+- **Sliding stats** that glow when hovered
+- **Smooth transitions** across all UI elements
 
 ### 🧩 Design Polish
-- Adaptive **responsive layout** — perfect on both mobile and desktop  
-- Modern **typography with neon shadowing**  
-- Custom **scrollbar styling**  
-- Subtle **3D depth** and refined color harmony  
+
+- Adaptive **responsive layout** — perfect on both mobile and desktop
+- Modern **typography with neon shadowing**
+- Custom **scrollbar styling**
+- Subtle **3D depth** and refined color harmony
 
 ---
 
-## ⚙️ Built With  
+## ⚙️ Built With
+
 🧠 **HTML, CSS, and JavaScript** — no frameworks, no dependencies.  
-💡 Pure logic, clean code, and polished design.  
+💡 Pure logic, clean code, and polished design.
 
 ---
 
-## 🎮 How to Play  
+## 🎮 How to Play
 
-1. Visit the [**Live Game**](https://chandansaha2005.github.io/Guessit/)  
-2. The computer secretly picks a number between 1 and *n*.  
-3. Enter your guess and click **Check!**  
-4. Get feedback: *“Too High”* or *“Too Low.”*  
-5. Find the exact number and unlock your victory glow.  
+1. Visit the [**Live Game**](https://chandansaha2005.github.io/Guessit/)
+2. The computer secretly picks a number between 1 and _n_.
+3. Enter your guess and click **Check!**
+4. Get feedback: _“Too High”_ or _“Too Low.”_
+5. Find the exact number and unlock your victory glow.
 
-💡 *Challenge your intuition — can you beat the algorithm?*
+💡 _Challenge your intuition — can you beat the algorithm?_
 
 ---
 
-## 🧱 Run It Locally  
+## 🧱 Run It Locally
 
 ```bash
 git clone https://github.com/Chandansaha2005/Guessit.git
@@ -69,10 +74,11 @@ Then open **index.html** in your browser — and dive into the neon hunt.
 
 ---
 
-## 🪩 Design Philosophy  
+## 🪩 Design Philosophy
+
 > “Code is not just logic — it’s motion, color, and emotion.”
 
-This version is about *feeling the game*, not just playing it —  
+This version is about _feeling the game_, not just playing it —  
 a smooth, vibrant, and immersive guessing experience.
 
 ---
