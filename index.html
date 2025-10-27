@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Guess the Number — Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="card" role="application" aria-labelledby="title">
+    <header>
+      <div>
+        <h1 id="title">Guess the Number</h1>
+        <p class="lead">Try to guess the secret number. You'll get hints and limited attempts.</p>
+      </div>
+    </header>
+
+    <section class="game" aria-live="polite">
+      <div>
+        <label for="range">Number range</label>
+        <div class="range-controls">
+          <input id="min" type="number" aria-label="Minimum number" value="1" min="0">
+          <span class="small">to</span>
+          <input id="max" type="number" aria-label="Maximum number" value="100" min="1">
+          <button id="setRange" class="secondary" title="Apply range">Apply</button>
+        </div>
+      </div>
+
+      <div class="guess-section">
+        <label for="guess">Your guess</label>
+        <div class="controls">
+          <input id="guess" type="number" inputmode="numeric" aria-label="Enter your guess" min="0">
+          <button id="guessBtn">Guess</button>
+          <button id="resetBtn" class="secondary">Reset</button>
+        </div>
+
+        <div id="message" class="message small">Enter a number and press Guess (or hit Enter).</div>
+        <div id="meta" class="meta"></div>
+      </div>
+    </section>
+
+    <aside class="side" aria-label="game stats">
+      <div class="stat"><div class="small">Attempts left</div><strong id="attempts">10</strong></div>
+      <div class="stat"><div class="small">Guesses this round</div><strong id="guesses">0</strong></div>
+      <div class="stat"><div class="small">Best score (fewest guesses)</div><strong id="best">—</strong></div>
+
+      <div class="tips">Tips: use the range fields to change difficulty. Best score stored locally.</div>
+    </aside>
+
+    <div class="footer">
+      <div class="small">Range: <span id="rangeLabel">1–100</span></div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
